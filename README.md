@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I’m Apurba 👋
 
-<!--
-**apurba-analytics/apurba-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Data Analyst working in the Healthcare domain, focused on SQL-based data analysis, data cleaning, and building insights that support decision-making.
 
-Here are some ideas to get you started:
+### 🛠️ Skills & Tools
+- SQL (MySQL)
+- Advanced Excel
+- Power BI
+- Data Cleaning & Transformation
+- Healthcare Analytics (Medical Coding data)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Projects
+- COVID-19 Data Analysis using MySQL
+
+### 📫 Connect
+- LinkedIn: www.linkedin.com/in/apurbagoswami
+- Email: apurbagoswami2000@gmail.com
